@@ -1,16 +1,9 @@
 
-<h1 align="center" >  
-OLÁ!! <br>
-Seja bem vindo ao repositório do Alencar, <br>
-  se acomode como puder <3
-<br>
+# Olá, meu nome é Nicholas de Alencar <br> Seja bem vindo ao meu perfil no Git
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlasxz&show_icons=true&bg_color=00000000&theme=synthwave)
 </div>
-
-
-</h1>
 
 <h2 align="center"> Conhecedor das seguintes magias negras 
 
