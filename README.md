@@ -1,15 +1,18 @@
+
 <h1 align="center" >  
 OLÁ!! <br>
 Seja bem vindo ao repositório do Alencar, <br>
   se acomode como puder <3
-</h1>
-
+<br>
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlasxz&show_icons=true&bg_color=00000000&theme=synthwave)
 </div>
 
-<h2> Conhecedor das seguintes magias negras </h2>
+
+</h1>
+
+<h2 align="center"> Conhecedor das seguintes magias negras 
 
 <p>
   
@@ -24,6 +27,8 @@ Seja bem vindo ao repositório do Alencar, <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 </p>
+
+</h2>
 
 
   <h1 align="center">  
