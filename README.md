@@ -1,10 +1,10 @@
 
 # Olá, meu nome é Nicholas de Alencar <br> Seja bem vindo ao meu perfil no Git
 
-- 🏫 Atualmente estudando na ETESP - cursando Desenvolvimento de Sistemas
+- 🏫 Técnico em Desenvolvimento de Sistema na ETESP (Escola Técnica de São Paulo) - 2022 -> 2024
 - 🤖 Amante incondicional de Mecatrônica
 - 💢 Hater oficial de Java, mas conhecedor do mesmo
-- ⌛ 18 anos 
+- ⌛ 19 anos 
 - 🎂 01/05/2006
 
 <div align="center">
