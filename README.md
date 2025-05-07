@@ -30,7 +30,7 @@
 
 </h2>
 
-<h2 align="center"> Designers nas horas vagas | Fan incondicional da Adobe
+<h2 align="center"> Designer quando necessário
 
 <p>
 
